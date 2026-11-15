@@ -6,3 +6,5 @@ I am a Computer Science and Engineering student at REVA University with a strong
 Learning Python and Java programming.
 
 Interested in web development and cloud computing.
+
+Goal: Build real-world software projects and contribute to open source.
