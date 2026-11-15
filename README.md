@@ -8,3 +8,9 @@ Learning Python and Java programming.
 Interested in web development and cloud computing.
 
 Goal: Build real-world software projects and contribute to open source.
+
+## Projects
+
+I am currently exploring software development and building projects
+to strengthen my programming and problem-solving skills.
+My interests include web development, Python, Java, and cloud computing.
